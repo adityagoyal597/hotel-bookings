@@ -1,8 +1,8 @@
 package routes
 
 import (
-	"example.com/Hotel_Bookings/controllers"
-	"example.com/Hotel_Bookings/middleware"
+	"github.com/adityagoyal597/hotel-bookings/controllers"
+	"github.com/adityagoyal597/hotel-bookings/middleware"
 	"github.com/gin-gonic/gin"
 )
 
