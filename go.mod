@@ -1,4 +1,4 @@
-module example.com/Hotel_Bookings
+module github.com/adityagoyal597/hotel-bookings
 
 go 1.22.3
 
