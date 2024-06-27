@@ -3,7 +3,7 @@ package models
 import (
 	"log"
 
-	"example.com/Hotel_Bookings/db"
+	"github.com/adityagoyal597/hotel-bookings/db"
 )
 
 type Room struct {
