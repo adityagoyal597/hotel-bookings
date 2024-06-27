@@ -3,8 +3,8 @@ package controllers
 import (
 	"net/http"
 
-	"example.com/Hotel_Bookings/models"
-	"example.com/Hotel_Bookings/utils"
+	"github.com/adityagoyal597/hotel-bookings/models"
+	"github.com/adityagoyal597/hotel-bookings/utils"
 	"github.com/gin-gonic/gin"
 )
 
