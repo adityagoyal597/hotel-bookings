@@ -3,7 +3,7 @@ package controllers
 import (
 	"net/http"
 
-	"example.com/Hotel_Bookings/models"
+	"github.com/adityagoyal597/hotel-bookings/models"
 	"github.com/gin-gonic/gin"
 )
 
