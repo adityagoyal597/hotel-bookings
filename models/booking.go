@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	"example.com/Hotel_Bookings/db"
+	"github.com/adityagoyal597/hotel-bookings/db"
 )
 
 type Booking struct {
